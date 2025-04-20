@@ -7,7 +7,7 @@ const InputBox = (
     onAmounChange,
     onCurrencyChange,
     currencyOptions = [],
-    selectCurrency = ["usd"],
+    selectCurrency = "inr",
     amountDisable = false,
     currencyDisable = false,
     className = ""
